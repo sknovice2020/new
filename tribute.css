@@ -1,0 +1,21 @@
+#image{
+    max-width: 100%;
+    display:block;
+    width: auto;
+   text-align: center;
+
+}
+#img-div{
+    background-origin: padding-box;
+    border-radius: 30px;
+    border-color: brown;
+    background-color: rgb(155, 241, 69);
+    color: black;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(85, 167, 4);
+    color: white;
+}
